@@ -37,10 +37,18 @@ https://drive.google.com/file/d/1FT2YwVOwMKIHKKyxvbSLAIagAqQyXjr5/view?usp=drive
 - Cloud dashboard integration (Blynk)
 - Team-based hardware development
 
-## Future Work
-- Re-implement firmware independently
-- Add automation features (relay control)
-- Improve sensor accuracy and calibration
+## Limitations
+
+- Firmware not self-developed
+- Limited automation logic
+- Sensor accuracy depends on calibration
+
+## Future Work (Planned Development)
+
+- Write custom ESP32 firmware
+- Add relay-based automation
+- Implement threshold-based decision logic
+- Expand to multi-room monitoring system
 
 ## Team
 - Asutosh
