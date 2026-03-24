@@ -12,6 +12,13 @@ This project is a prototype smart home system developed during a hands-on worksh
 ## System Architecture
 The ESP32 collects data from sensors and sends it to the Blynk IoT platform for visualization and alerts.
 
+## System Logic
+
+- IR sensor detects intrusion → triggers buzzer and red LED
+- LM393 detects light intensity → updates light status
+- DHT11 sends temperature data to Blynk dashboard
+- ESP32 acts as central controller handling all sensor inputs and outputs
+  
 ## Note
 This project was implemented as part of a guided workshop. The firmware was pre-provided during the session, and this repository focuses on system understanding, hardware integration, and implementation.
 
