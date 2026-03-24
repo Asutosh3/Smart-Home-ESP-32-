@@ -18,6 +18,12 @@ This project was implemented as part of a guided workshop. The firmware was pre-
 ## Demo
 https://drive.google.com/file/d/1FT2YwVOwMKIHKKyxvbSLAIagAqQyXjr5/view?usp=drivesdk
 
+## Documentation
+
+- [Components](docs/ Components.md)
+- [System Architecture](docs/System Architecture.md)
+- [Working](docs/ Working.md)
+
 ## Learning Outcomes
 - Sensor interfacing concepts
 - IoT architecture using ESP32
