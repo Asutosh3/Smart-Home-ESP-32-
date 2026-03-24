@@ -15,9 +15,6 @@ The ESP32 collects data from sensors and sends it to the Blynk IoT platform for 
 ## Note
 This project was implemented as part of a guided workshop. The firmware was pre-provided during the session, and this repository focuses on system understanding, hardware integration, and implementation.
 
-## Media
-(Add demo video link here)
-
 ## Learning Outcomes
 - Sensor interfacing concepts
 - IoT architecture using ESP32
