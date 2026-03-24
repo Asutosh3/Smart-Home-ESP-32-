@@ -1,0 +1,9 @@
+## Working Principle
+
+- ESP32 continuously reads sensor data
+- Data is sent to Blynk server via WiFi
+- If IR sensor detects motion:
+  → Buzzer ON
+  → Red LED ON
+- Light sensor determines light status
+- Temperature displayed on dashboard
